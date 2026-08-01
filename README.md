@@ -8,10 +8,11 @@
 
 ---
 
-## 🥊 Training Arc (Hajime no Ippo Vibes)
+## 🥊
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R6eWQ5M2J4a2J5bTRnZ2R1bW9qM3JmY2N3N3F5dGx4c2R5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="280"/>
+  <img width="500" height="375" alt="1b7c2181c3cd2277001a2abdc75d3c2b" src="https://github.com/user-attachments/assets/426011fa-d724-42f8-9450-1cdee8b4614e" />
+
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2R6Y2Q0a2M4Y2Q3a3J4cW1nY2Q5c3Z5d2V0a3Q3b2x2aWZzNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="280"/>
 </div>
 
@@ -19,29 +20,7 @@
   <b>"Not talented. Just consistent."</b>
 </p>
 
----
 
-## 💻 About Me
-
-```bash
-> whoami
-Mohammed Ghouse
-
-> role
-Java Full Stack Developer
-AI/ML Engineer
-
-> current_focus
-Spring Boot + React
-Machine Learning & Computer Vision
-DSA & System Design
-Open Source Projects
-
-> status
-Training like Ippo. Building like a hacker.
-```
-
----
 
 ## 🚀 Tech Arsenal
 
@@ -61,83 +40,7 @@ Training like Ippo. Building like a hacker.
 
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammedghoused&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedghoused&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=ffffff"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mohammedghoused&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedghoused&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## 🧠 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/mohammedghoused/AI-Resume-Analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedghoused&repo=AI-Resume-Analyzer&theme=chartreuse-dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/mohammedghoused/Employee-Management-Sytem-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedghoused&repo=Employee-Management-Sytem-backend&theme=chartreuse-dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/mohammedghoused/Car-Price-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedghoused&repo=Car-Price-Prediction&theme=chartreuse-dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/mohammedghoused/BRAIN-TUMOUR-DETECTION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedghoused&repo=BRAIN-TUMOUR-DETECTION&theme=chartreuse-dark&hide_border=true"/>
-</a>
-
-</div>
-
----
-
-## 🏆 Trophieshttps://github.com/mohammedghoused/mohammedghoused/blob/main/README.md
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohammedghoused&theme=matrix&no-frame=true&no-bg=true&margin-w=15&column=4"/>
-
-</div>
-
----
-
-## 🎯 Current Mission
-
-- ⚔️ Mastering **Spring Boot Microservices**
-- 🧠 Deepening **AI/ML & Computer Vision**
-- 📚 Solving **DSA daily**
-- 🚀 Building **production-ready projects**
-- 🌙 Becoming a **consistent 1% developer**
-
----
 
 ## ☕ Connect With Me
 
