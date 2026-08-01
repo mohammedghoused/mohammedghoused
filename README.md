@@ -1,64 +1,77 @@
+````md
 <div align="center">
 
+# 🎮 GTA: SAN ANDREAS — DEVELOPER EDITION
+
 ```text
-███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗███████╗██████╗
-████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔════╝██╔══██╗
-██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║█████╗  ██║  ██║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══╝  ██║  ██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║███████╗██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
+┌───────────────────────────────────────────────────────┐
+│ Grand Theft Auto: San Andreas                         │
+│                                                       │
+│ Player : Mohammed Ghouse                             │
+│ Rank   : Software Engineer                           │
+│ Class  : Java Full Stack + AI/ML                     │
+│ Status : Mission In Progress...                      │
+└───────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Mohammed+Ghouse;Java+Full+Stack+Developer;AI+%2F+ML+Engineer;Spring+Boot+%7C+React+%7C+Python;Always+Learning.+Always+Building."/>
+<img src="https://readme-typing-svg.demolab.com?font=Pricedown&size=22&pause=1500&color=F6C343&center=true&vCenter=true&width=750&lines=Mission+Started...;Java+Full+Stack+Developer;AI+%2F+ML+Engineer;Building+Cool+Stuff;Grinding+Every+Day"/>
 
 </div>
 
 ---
 
-# 💻 About Me
-
-```bash
-$ whoami
-
-Name        : Mohammed Ghouse
-Role        : Java Full Stack Developer
-Focus       : AI / Machine Learning
-Education   : B.E. CSE (Data Science)
-Location    : Bengaluru, India
-
-Status      : Building projects and improving every day.
-```
-
----
-
-# ⚡ Current Mission
+# 🎯 Player Stats
 
 ```text
-[✔] AI Resume Analyzer
-[✔] Smart Tasbih Counter
-[✔] Spring Boot REST APIs
-[✔] React Frontend
-[✔] Machine Learning Projects
-[✔] Data Structures & Algorithms
+Name        : Mohammed Ghouse
+Role        : Java Full Stack Developer
+Secondary   : AI / Machine Learning Engineer
+
+Current XP  : Building Projects
+Level       : Student Developer
+
+Location    : Bengaluru, India
+
+Health      ██████████ 100%
+Energy      █████████░ 90%
+Coffee      ██████████ 100%
+Motivation  ██████████ 100%
+Sleep       ██░░░░░░░░ 20%
 ```
 
 ---
 
-# 🛠 Tech Stack
+# 🗺️ Active Missions
+
+```text
+✔ Mission 01 : AI Resume Analyzer
+✔ Mission 02 : Employee Management System
+✔ Mission 03 : Smart Tasbih Counter
+✔ Mission 04 : Car Price Prediction
+✔ Mission 05 : Brain Tumour Detection
+
+⬜ Mission 06 : Land Software Engineer Role
+⬜ Mission 07 : Contribute to Open Source
+⬜ Mission 08 : Build Large Scale AI Products
+```
+
+---
+
+# 🎒 Inventory
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
 
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,flask,mysql,postgres"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
 
 ### AI / ML
 
@@ -66,97 +79,173 @@ Status      : Building projects and improving every day.
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammedghoused&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedghoused&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=mohammedghoused&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🥊 Discipline
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="420"/>
-
-### *"Not talented. Just consistent."*
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Tech |
-|----------|------|
-| 🤖 AI Resume Analyzer | Python, Flask, NLP |
-| 💰 Car Price Prediction | Machine Learning |
-| 🧠 Brain Tumour Detection | Deep Learning |
-| 📿 Smart Tasbih Counter | Java, Android |
-| 🏢 Employee Management System | Spring Boot + React |
-| ⚙️ HIMAN-AI | C++, Vector Database |
-
----
-
-# 💬 Terminal
-
-```bash
-> java --version
-Java 21
-
-> python --version
-Python 3.x
-
-> git status
-On branch main
-
-Your branch is up to date.
-
-Nothing to commit,
-working tree clean.
-
-> while(alive){
-      Learn();
-      Build();
-      Improve();
-}
-```
-
----
-
-# 🌐 Connect
-
-<div align="center">
-
-<a href="https://github.com/mohammedghoused">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
+# 🚓 Wanted Level
 
 ```text
-"Discipline beats motivation.
-Consistency beats talent."
+⭐ Bug Hunter
 
+⭐⭐ Stack Overflow Survivor
+
+⭐⭐⭐ Coffee Addict
+
+⭐⭐⭐⭐ Open Source Builder
+
+⭐⭐⭐⭐⭐ When Production Breaks 😅
 ```
 
-⭐ Thanks for visiting my profile.
+---
+
+# 💰 Money Earned
+
+```text
+Experience > Money
+
+Skills > Degrees
+
+Consistency > Motivation
+```
+
+---
+
+# 🚘 Vehicles Unlocked
+
+```text
+🚗 Java
+
+🏍 Spring Boot
+
+🚀 React
+
+🤖 Python
+
+🧠 Machine Learning
+
+⚡ REST APIs
+
+💾 SQL
+
+🐧 Linux
+
+🐳 Docker
+```
+
+---
+
+# 🏆 Achievements
+
+```text
+🏅 Built Multiple AI Projects
+
+🏅 Created Full Stack Applications
+
+🏅 Learning Every Day
+
+🏅 Solved DSA Problems
+
+🏅 Never Gave Up
+```
+
+---
+
+# 📈 Progress
+
+```text
+Java                 ████████████ 95%
+
+Spring Boot          █████████░░ 80%
+
+React                ████████░░░ 70%
+
+Machine Learning     █████████░░ 82%
+
+Python               ██████████░ 90%
+
+DSA                  ███████░░░░ 65%
+```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammedghoused&show_icons=true&theme=gruvbox&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedghoused&layout=compact&theme=gruvbox&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=mohammedghoused&theme=gruvbox&hide_border=true"/>
 
 </div>
+
+---
+
+# 🎮 Mission Status
+
+```text
+MISSION PASSED!
+
++ Respect
+
++ Experience
+
++ Knowledge
+
++ Discipline
+
+Reward Unlocked:
+
+Software Engineering Journey
+```
+
+---
+
+# 💻 Cheat Codes
+
+```bash
+HESOYAM       -> Coffee + Motivation
+
+FULLCLIP      -> Debug Faster
+
+ROCKETMAN     -> Learn Faster
+
+BAGUVIX       -> Survive Deadline
+
+AEZAKMI       -> Ignore Negative People
+```
+
+---
+
+# 📡 Save Game
+
+```bash
+git add .
+
+git commit -m "Completed another mission"
+
+git push origin main
+```
+
+---
+
+<div align="center">
+
+## 🎮 "Ah Sh*t, Here We Go Again..."
+
+<img src="https://media.tenor.com/JR8Jx0P6S6QAAAAC/ah-shit-here-we-go-again.gif" width="550"/>
+
+### Keep Grinding.
+
+### Keep Shipping.
+
+### Keep Leveling Up.
+
+⭐ Thanks for visiting!
+
+</div>
+````
