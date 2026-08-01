@@ -1,14 +1,6 @@
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=250&section=header&text=Mohammed%20Ghouse&fontSize=50&fontColor=00ff99&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20ML%20Engineer%20%7C%20Open%20Source%20Builder&descAlignY=60&descAlign=50"/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Mohammed+Ghouse;Java+Full+Stack+Developer;AI+%26+ML+Engineer;Spring+Boot+%7C+React+%7C+Python+%7C+OpenCV;Building+Projects+That+Actually+Solve+Problems;Code.+Train.+Ship.+Repeat."/>
-
-</div>
-
----
 
 ## 🥊
+<img width="480" height="320" alt="giphy" src="https://github.com/user-attachments/assets/899b824f-83a1-4494-9f10-a60f6b199579" />
 
 <div align="center">
   <img width="500" height="375" alt="1b7c2181c3cd2277001a2abdc75d3c2b" src="https://github.com/user-attachments/assets/426011fa-d724-42f8-9450-1cdee8b4614e" />
